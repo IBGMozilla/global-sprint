@@ -1,31 +1,22 @@
-# Mozilla Global Sprint 2017
+# Welcome to Web Literacy Curriculm Project
 
-[![Join the chat at https://gitter.im/mozilla/global-sprint-2017](https://badges.gitter.im/mozilla/global-sprint-2017.svg)](https://gitter.im/mozilla/global-sprint-2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### For *facilitators*, this version of WLC should: 
 
-Mozilla’s [Global Sprint](https://mozilla.github.io/global-sprint/) is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open.
+* Provide explicit grounding in open facilitation best practice, and the principles of working open and leading open. 
+* Introduce the web-based HTML editor for creating and publishing web content 
+* Allow for delivery to varied audiences via several interest-based “tracks” created from mixing and matching modules 
+* Provide guidelines and a workflow for adding to series, and suggesting new tracks
 
-https://mozilla.github.io/global-sprint/
+### For *learners,* this version of WLC should: 
 
-This repo holds content for the website.
+* Provide WL skills and knowledge that address learners’ questions about the web and are presented in the context of learners’ interests, communities, and experiences
+* Introduce and provide avenues for exploring the exciting possibilities the web offers 
+* Give learners confidence and satisfaction in their ability to read, write, and participate on the web 
+* Allow users to control their web presence by creating their own personal web page
 
-## Getting Started
+About the Structure
+Any WL learning experience should ideally start with two activities to anchor the curriculum in 1) the learner’s personal, local, and community context, and 2)  in a coherent conceptual understanding of web technologies and how they work. These are **FRAMING** activities, described below, and they preface a sequence of activities aligned with **READ, WRITE, PARTICIPATE** (from the WL Map). 
 
-You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-lang.org/en/) and [Bundler](http://bundler.io/) to run this site locally.
+The **READ, WRITE, PARTICIPATE** activities are designed to be completed in full, and ideally in R-W-P order. The WRITE activities when taught in sequence are stepped to provide a full grounding in HTML and web page creation. This sequence starts with a conceptual understanding of what HTML is, and why and how it’s used (Tag Tag/Tag the World).  
 
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open [http://localhost:4000/global-sprint](http://localhost:4000/global-sprint) in your favourite browser!
-
-## Contributing
-
-Thanks for your interest in contributing to the #mozsprint website! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.MD).
-
-## Participation Guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to zannah [at] mozillafoundation.org.
-
-## #mozsprint
-
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
-
-![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+Next learners take a look at HTML in action— how it works, live on the web— and what happens when they edit tags and content (Hack the News). At the end of the WRITE sequence, learners begin to write HTML and create their own pages, using basic tools— a text editor and a browser (Your First Page).  Finally, learners explore a tool for web development called Thimble, which allows them to create web pages using a web browser interface. Pages created with Thimble are instantly on the world wide web, hosted on Mozilla’s servers.
